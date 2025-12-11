@@ -38,7 +38,7 @@ Java-based remote desktop system with screen sharing, mouse/keyboard control, ch
 
 ✨ More advanced AI & full-stack projects coming soon!
 
-📊 GitHub Stats
+
 
 
 
