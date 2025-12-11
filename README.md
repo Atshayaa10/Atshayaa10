@@ -1,49 +1,33 @@
-👋 Hi, I'm Atshayaa B
-Data Science | Machine Learning | Deep Learning | NLP | Full-Stack Development
+<div align="center">
+✨ Hi, I'm Atshayaa B
+Data Science • Machine Learning • Deep Learning • NLP • Full-Stack Development
 
-🚀 M.Sc Data Science student passionate about building real-world applications that combine
-AI + Machine Learning + Full-Stack Software Development.
-I enjoy turning ideas into working systems — from model development to complete product deployment.
+M.Sc Data Science student passionate about building intelligent systems that blend
+AI models + clean software development to solve real-world problems.
 
-🔧 Tech Stack
+</div>
+Tech Stack
+<div align="center"> <!-- Languages --> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&style=for-the-badge"/> <!-- ML/AI --> <br> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-0A74DA?style=for-the-badge&logo=semantic-web&logoColor=white"/> <!-- Libraries --> <br> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/> <!-- Tools --> <br> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/> </div>
+Featured Projects (Ordered as Requested)
+😴 Driver Fatigue Detection
 
-Languages: Python, SQL, Java
-AI / ML: Machine Learning, Deep Learning, NLP, Scikit-Learn, TensorFlow, Keras
-Data Tools: Power BI, Pandas, NumPy, Matplotlib
-Software / Web: HTML, CSS, JS, Flask, REST APIs
+Deep Learning + Computer Vision model to detect driver drowsiness and enhance road safety.
 
-🚀 Featured Projects
+🎤 Elderly Voice Assistant
 
-Here are some of the projects I have built and uploaded to GitHub:
+AI-powered voice assistant with NLP, emergency phrase detection, and YouTube automation.
 
-🔹 Driver Fatigue Detection System
+📝 Smart Invoice Processor (OCR + NER)
 
-Deep Learning + Computer Vision to detect driver drowsiness and improve road safety.
+Intelligent system that extracts invoice fields using OCR + spaCy NER with a full Flask UI.
 
-🔹 Elderly Voice Assistant
+🐾 PetWise Recommendation System
 
-AI-powered assistant with voice commands, emergency alerts, NLP, and YouTube playback automation.
+Machine Learning system recommending pets based on lifestyle, preferences, and environmental factors.
 
-🔹 Smart Invoice Processor (OCR + NER)
+💻 Remote Desktop Viewer
 
-Extracts invoice fields using OCR + spaCy NER model with full Flask UI and SAP simulation.
+Java-based remote desktop application with screen sharing, mouse/keyboard control, chat, and file transfer.
 
-🔹 PetWise Recommendation System
-
-ML-based system recommending pets based on user lifestyle, habits, and environmental factors.
-
-🔹 Remote Desktop Viewer (Full Stack + Sockets)
-
-Java-based remote desktop system with screen sharing, mouse/keyboard control, chat & file transfer.
-
-✨ More advanced AI & full-stack projects coming soon!
-
-
-
-
-
-
-🌐 Connect With Me
-
-LinkedIn : https://www.linkedin.com/in/atshayaa-b-06529128a/
- • Portfolio Coming Soon 😊
+Let’s Connect
+<div align="center"> <a href="https://www.linkedin.com/in/atshayaa-b-06529128a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/> </a> </div>
